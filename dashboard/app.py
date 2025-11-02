@@ -117,7 +117,7 @@ with st.sidebar:
     )
 
     st.markdown("---")
-    st.caption("Built with Streamlit • Powered by PyTorch")
+    st.caption("Built by Anuj Prasad and Team")
 
 # Page routing
 if page == "📊 Overview":
