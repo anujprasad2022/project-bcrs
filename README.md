@@ -104,6 +104,16 @@ This repository contains the **Bladder Cancer Recurrence Dataset**, which provid
 - **API integration** (Groq LLM) in healthcare contexts
 - **Hybrid statistical-ML-DL** frameworks
 
+## Demo
+<img width="full" height="1486" alt="image" src="https://github.com/user-attachments/assets/d2e8e343-041d-406c-8efb-f46d7553ce6e" />
+<img width="full" height="1462" alt="image" src="https://github.com/user-attachments/assets/e5a42200-2dbb-4095-bdfa-a74753ed95c6" />
+<img width="full" height="1342" alt="image" src="https://github.com/user-attachments/assets/b02b9bb6-1537-4cdd-84d8-b20149dbd9ad" />
+<img width="full" height="958" alt="image" src="https://github.com/user-attachments/assets/f93b4f9c-603b-4291-a6cf-a4e591be5453" />
+<img width="full" height="1562" alt="image" src="https://github.com/user-attachments/assets/d6f8a318-edd4-4c90-aad6-13e219d1bf93" />
+<img width="full" height="1386" alt="image" src="https://github.com/user-attachments/assets/53df0c48-eb2d-4084-83fb-d03b0442dbfc" />
+<img width="full" height="1304" alt="image" src="https://github.com/user-attachments/assets/ea173767-8baa-42f0-a372-d0c8df3c853c" />
+
+
 ## Installation & Setup
 
 ### Quick Setup (5 minutes)
