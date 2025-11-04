@@ -36,7 +36,7 @@ st.set_page_config(
 def load_groq_service():
     """Initialize Groq service."""
     try:
-        return GroqService()
+        return GroqService(api_key=st.secrets('GROQ_API_KEY'))
     except Exception as e:
         st.warning(f"⚠️ AI explanations unavailable: {e}")
         return None
